@@ -2,10 +2,7 @@
 
 This is an example web server that utilizes HTTP/2 Server Push in a simple way. Requests to `/index.html` should result in the Gopher image being pushed to the client prior to the main web page.
 
-See [https://blog.tylerchr.com/go-18-changes](https://blog.tylerchr.com/golang-18-changes).
-
-
-Or the latest updates at: [https://blog.tylerchr.com/golang-18-whats-coming] (https://blog.tylerchr.com/golang-18-whats-coming)
+See the latest updates at: [https://blog.tylerchr.com/golang-18-whats-coming] (https://blog.tylerchr.com/golang-18-whats-coming)
 
 
 ---
